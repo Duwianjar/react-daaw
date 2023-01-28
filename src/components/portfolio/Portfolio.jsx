@@ -24,7 +24,7 @@ const Portfolio = () => {
           <h3>First Portfolio Website Using Bootstrap</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Duwianjar/duwianjar.github.io/tree/main/Bootstrap" className='btn' target="_blank" without rel='noreferrer' >Github</a>
-            <a href="https:/duwianjar.github.io/Bootstrap" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
+            <a href="https://duwianjar.github.io/Bootstrap" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
           </div>
         </article>
 
@@ -35,7 +35,7 @@ const Portfolio = () => {
           <h3>My second portfolio website</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Duwianjar/duwianjar.github.io/tree/main/Responsive" className='btn' target="_blank" without rel='noreferrer' >Github</a>
-            <a href="https:/duwianjar.github.io/Responsive" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
+            <a href="https://duwianjar.github.io/Responsive" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
           </div>
         </article>
 
@@ -46,7 +46,7 @@ const Portfolio = () => {
           <h3>This is my third portfolio website that I created using the Tailwind framework</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Duwianjar/duwianjar.github.io/tree/main/Tailwind" className='btn' target="blank" without rel='noreferrer' >Github</a>
-          <a href="https:/duwianjar.github.io/Tailwind" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
+          <a href="https://duwianjar.github.io/Tailwind" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
           </div>
         </article>
 
@@ -68,7 +68,7 @@ const Portfolio = () => {
           <h3>The website rate film that I made uses React JS and uses the API from the movie DB</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Duwianjar/Movie" className='btn' target="_blank" without rel='noreferrer' >Github</a>
-          <a href="https:/duwianjar.github.io/Movie" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
+          <a href="https://duwianjar.github.io/Movie" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
           </div>
         </article>
 
@@ -111,8 +111,8 @@ const Portfolio = () => {
           </div>
           <h3>This website is the website you are opening now that I created to update my portfolio and hone my skills</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/Duwianjar/ReactPortfolio" className='btn' target="_blank" without rel='noreferrer'>Github</a>
-          <a href="https://duwianjar.github.io/ReactPortfolio" className='btn btn-primary' target="_blank" without rel='noreferrer'>Live Demo</a>
+          <a href="https://github.com/Duwianjar/react-daaw" className='btn' target="_blank" without rel='noreferrer'>Github</a>
+          <a href="https://duwianjar.github.io/react-daaw" className='btn btn-primary' target="_blank" without rel='noreferrer'>Live Demo</a>
           </div>
           </article>
       </div>
