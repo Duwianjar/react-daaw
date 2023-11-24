@@ -57,7 +57,7 @@ const Portfolio = () => {
           <h3>A Website that I created with my friend to take part in a parmatika competition</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Duwianjar/akatsuki" className='btn' target="_blank" without rel='noreferrer' >Github</a>
-          <a href="https://duwianjarariwibowo.000webhostapp.com/" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
+          <a href="https://sman1bagansinembah.000webhostapp.com" className='btn btn-primary' target="_blank" without rel='noreferrer' >Live Demo</a>
           </div>
         </article>
 
